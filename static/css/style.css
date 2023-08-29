@@ -87,10 +87,10 @@ table tr:nth-child(2n+1) {
     content: 'Name:';
   }
   td:nth-child(3):before {
-    content: 'Email:';
+    content: 'Rating:';
   }
   td:nth-child(4):before {
-    content: 'Phone:';
+    content: 'Title:';
   }
   td:nth-child(5):before {
     content: 'Comments:';
